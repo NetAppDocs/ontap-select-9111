@@ -15,6 +15,8 @@ settings:
       url: /ontap-select-9111      
     # Additional releases newest to oldest
     # Release in GitHub (typical)
+    - version-number: "9.14.1"
+      url: /ontap-select  
     - version-number: "9.13.1"
       url: /ontap-select-9131      
     - version-number: "9.12.1"
